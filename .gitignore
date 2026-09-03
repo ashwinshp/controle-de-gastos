@@ -1,0 +1,4 @@
+gastos.json
+__pycache__/
+build/
+*.spec
