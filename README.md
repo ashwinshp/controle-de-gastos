@@ -39,7 +39,7 @@ Nesse projeto estou colocando em prática alguns conceitos que estou aprendendo 
 Com o Python instalado, execute:
 
 ```bash
-python controle_gastos.py
+python gastos.py
 ```
 
 ## Sobre o projeto
